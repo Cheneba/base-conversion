@@ -1,3 +1,7 @@
+// by importing from module *baseconvert function calls include;
+// basetodecimal(value, base)
+// decimaltobase(value, base)
+
 from collections import deque
 from math import *
 
